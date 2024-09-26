@@ -1,4 +1,4 @@
-# Weather Application Tutorial
+# Weather Application Tutorial(JavaScript)
 
 This project is a tutorial from youtube "GreatStack" channel, designed to replicate its features and functionality for learning and development purposes.
 
